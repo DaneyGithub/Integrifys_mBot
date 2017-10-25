@@ -10,6 +10,9 @@ namespace GitHubTest_Console
     {
         static void Main(string[] args)
         {
+
+            //This is test
+            Console.WriteLine("Test output");
         }
     }
 }
